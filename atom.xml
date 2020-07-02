@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ym777.github.io/</id>
     <title>油麦</title>
-    <updated>2020-07-02T15:07:32.220Z</updated>
+    <updated>2020-07-02T15:13:36.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ym777.github.io/"/>
     <link rel="self" href="https://ym777.github.io/atom.xml"/>
@@ -10,6 +10,106 @@
     <logo>https://ym777.github.io/images/avatar.png</logo>
     <icon>https://ym777.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea和github搭建博客记录]]></title>
+        <id>https://ym777.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/</id>
+        <link href="https://ym777.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/">
+        </link>
+        <updated>2020-07-02T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>来来回回，换了很多网站与工具。最终选择了Gridea和github来搭建自己的博客，一来只是把它作为一个工具，记录下自己的算是确定下来了吧。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>来来回回，换了很多网站与工具。最终选择了Gridea和github来搭建自己的博客，一来只是把它作为一个工具，记录下自己的算是确定下来了吧。</p>
+<!-- more -->
+<p>在我搭建博客的过程中，来来回回换了很多网站与工具。也走了很多弯路，最终选择了Gridea和github来搭建自己的博客，记录自己的学习过程。之所以没有选择程序员主流的hexo，【虽然我也用过】。一来只是单纯的把它作为一个工具，二来对于非科班出身的我还有其他事情要做。gridea初始化配置简单，后期维护也很方便。非常适合像我这样的散人。</p>
+<p>今天，就重新复现一下创建过程，省的以后在忘，留个教程。</p>
+<h1 id="1本地安装">1.本地安装</h1>
+<h2 id="git安装">git安装</h2>
+<p>Gridea 的同步功能依赖本地 Git 客户端，所以我们需要先安装 Git。 <a href="https://git-scm.com/">Git官网</a>下载平台对应的安装程序。安装没有特别的要求，一路下一步即可。</p>
+<p>不过gridea v0.9.2版本以上集成了git，可以只安装gridea软件。</p>
+<h2 id="gridea安装">Gridea安装</h2>
+<p><a href="https://gridea.dev/">Gridea官网</a>下载对应平台的安装程序进行安装。</p>
+<p>网速较慢，推荐去各大资源站下载。找不到附我的资源库：<a href="https://cangbaoge.ys168.com/">油麦同学的藏宝阁</a></p>
+<h1 id="2github仓库创建">2.github仓库创建</h1>
+<h2 id="1账户注册">1.账户注册</h2>
+<p><a href="https://github.com/">github官网</a> 注册个账户，记好账户与密码。</p>
+<figure data-type="image" tabindex="1"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-31-44.png" alt="" loading="lazy"></figure>
+<p>需要验证你的邮箱</p>
+<figure data-type="image" tabindex="2"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-33-06.png" alt="" loading="lazy"></figure>
+<p>验证完之后，选择第一个，创建一个仓库。<img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-40-46.png" alt="" loading="lazy"></p>
+<p>或者返回主界面，选择这个</p>
+<figure data-type="image" tabindex="3"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-42-59.png" alt="" loading="lazy"></figure>
+<h2 id="2创建仓库">2.创建仓库</h2>
+<figure data-type="image" tabindex="4"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-45-29.png" alt="" loading="lazy"></figure>
+<p>网站就算建好了，但是里面没有东西。输入网站可查看：https://ym777.github.io/</p>
+<figure data-type="image" tabindex="5"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-47-46.png" alt="" loading="lazy"></figure>
+<p>接下来生成令牌：</p>
+<p>主界面下，找到Settings&gt;Devloperr settings&gt;Peronal access tokens&gt; Generate new token</p>
+<figure data-type="image" tabindex="6"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-50-13.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-52-17.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-53-19.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-57-05.png" alt="" loading="lazy"></figure>
+<p>生成的token</p>
+<figure data-type="image" tabindex="10"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-58-15.png" alt="" loading="lazy"></figure>
+<h1 id="3上传到gridea">3.上传到Gridea</h1>
+<p>安装gridea后打开，按照我的填写内容，填写你的信息。</p>
+<p>点保存，点检测远程连接。会出现连接成功字样。点击同步，同步成功，等待片刻。文件就会上传到github托管。</p>
+<p>输入自己的域名就能看到更改了。</p>
+<figure data-type="image" tabindex="11"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_23-04-54.png" alt="" loading="lazy"></figure>
+<h1 id="4其他功能">4.其他功能</h1>
+<p>写文章可以用markdown，支持他的语法，然后保存点同步就行了。不需要其他知识。</p>
+<p>其他功能自行摸索。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记我的第一次博客使用]]></title>
+        <id>https://ym777.github.io/post/ji-wo-de-di-yi-ci-bo-ke-shi-yong/</id>
+        <link href="https://ym777.github.io/post/ji-wo-de-di-yi-ci-bo-ke-shi-yong/">
+        </link>
+        <updated>2020-07-02T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>来来回回，换了很多网站与工具。最终选择了Gridea和github来搭建自己的博客，一来只是把它作为一个工具，记录下自己的算是确定下来了吧。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>来来回回，换了很多网站与工具。最终选择了Gridea和github来搭建自己的博客，一来只是把它作为一个工具，记录下自己的算是确定下来了吧。</p>
+<!-- more -->
+<p>在我搭建博客的过程中，来来回回换了很多网站与工具。也走了很多弯路，最终选择了Gridea和github来搭建自己的博客，记录自己的学习过程。之所以没有选择程序员主流的hexo，【虽然我也用过】。一来只是单纯的把它作为一个工具，二来对于非科班出身的我还有其他事情要做。gridea初始化配置简单，后期维护也很方便。非常适合像我这样的散人。</p>
+<p>今天，就重新复现一下创建过程，省的以后在忘，留个教程。</p>
+<h1 id="1本地安装">1.本地安装</h1>
+<h2 id="git安装">git安装</h2>
+<p>Gridea 的同步功能依赖本地 Git 客户端，所以我们需要先安装 Git。 <a href="https://git-scm.com/">Git官网</a>下载平台对应的安装程序。安装没有特别的要求，一路下一步即可。</p>
+<p>不过gridea v0.9.2版本以上集成了git，可以只安装gridea软件。</p>
+<h2 id="gridea安装">Gridea安装</h2>
+<p><a href="https://gridea.dev/">Gridea官网</a>下载对应平台的安装程序进行安装。</p>
+<p>网速较慢，推荐去各大资源站下载。找不到附我的资源库：<a href="https://cangbaoge.ys168.com/">油麦同学的藏宝阁</a></p>
+<h1 id="2github仓库创建">2.github仓库创建</h1>
+<h2 id="1账户注册">1.账户注册</h2>
+<p><a href="https://github.com/">github官网</a> 注册个账户，记好账户与密码。</p>
+<figure data-type="image" tabindex="1"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-31-44.png" alt="" loading="lazy"></figure>
+<p>需要验证你的邮箱</p>
+<figure data-type="image" tabindex="2"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-33-06.png" alt="" loading="lazy"></figure>
+<p>验证完之后，选择第一个，创建一个仓库。<img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-40-46.png" alt="" loading="lazy"></p>
+<p>或者返回主界面，选择这个</p>
+<figure data-type="image" tabindex="3"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-42-59.png" alt="" loading="lazy"></figure>
+<h2 id="2创建仓库">2.创建仓库</h2>
+<figure data-type="image" tabindex="4"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-45-29.png" alt="" loading="lazy"></figure>
+<p>网站就算建好了，但是里面没有东西。输入网站可查看：https://ym777.github.io/</p>
+<figure data-type="image" tabindex="5"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-47-46.png" alt="" loading="lazy"></figure>
+<p>接下来生成令牌：</p>
+<p>主界面下，找到Settings&gt;Devloperr settings&gt;Peronal access tokens&gt; Generate new token</p>
+<figure data-type="image" tabindex="6"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-50-13.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-52-17.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-53-19.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-57-05.png" alt="" loading="lazy"></figure>
+<p>生成的token</p>
+<figure data-type="image" tabindex="10"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_22-58-15.png" alt="" loading="lazy"></figure>
+<h1 id="3上传到gridea">3.上传到Gridea</h1>
+<p>安装gridea后打开，按照我的填写内容，填写你的信息。</p>
+<p>点保存，点检测远程连接。会出现连接成功字样。点击同步，同步成功，等待片刻。文件就会上传到github托管。</p>
+<p>输入自己的域名就能看到更改了。</p>
+<figure data-type="image" tabindex="11"><img src="https://tuchuang-zhangzhen.oss-cn-beijing.aliyuncs.com/img/Snipaste_2020-07-02_23-04-54.png" alt="" loading="lazy"></figure>
+<h1 id="4其他功能">4.其他功能</h1>
+<p>写文章可以用markdown，支持他的语法，然后保存点同步就行了。不需要其他知识。</p>
+<p>其他功能自行摸索。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打开网页404]]></title>
         <id>https://ym777.github.io/post/da-kai-wang-ye-404/</id>
