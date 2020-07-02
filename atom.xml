@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com</id>
+    <id>https://ym996.github.io/</id>
     <title>油麦</title>
-    <updated>2020-07-02T08:02:50.726Z</updated>
+    <updated>2020-07-02T08:34:05.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com"/>
-    <link rel="self" href="https://github.com/atom.xml"/>
+    <link rel="alternate" href="https://ym996.github.io/"/>
+    <link rel="self" href="https://ym996.github.io/atom.xml"/>
     <subtitle>一个间接性踌躇满志，持续性混吃等死，啥也不会的油麦</subtitle>
-    <logo>https://github.com/images/avatar.png</logo>
-    <icon>https://github.com/favicon.ico</icon>
+    <logo>https://ym996.github.io/images/avatar.png</logo>
+    <icon>https://ym996.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
     <entry>
         <title type="html"><![CDATA[打开网页404]]></title>
-        <id>https://github.com/post/da-kai-wang-ye-404/</id>
-        <link href="https://github.com/post/da-kai-wang-ye-404/">
+        <id>https://ym996.github.io/post/da-kai-wang-ye-404/</id>
+        <link href="https://ym996.github.io/post/da-kai-wang-ye-404/">
         </link>
         <updated>2020-07-02T08:01:51.000Z</updated>
         <content type="html"><![CDATA[<p>同步提交成功，但是打开404，怎么解决？</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小朋友]]></title>
-        <id>https://github.com/post/di-yi-ge-bo-ke-chuang-jian/</id>
-        <link href="https://github.com/post/di-yi-ge-bo-ke-chuang-jian/">
+        <id>https://ym996.github.io/post/di-yi-ge-bo-ke-chuang-jian/</id>
+        <link href="https://ym996.github.io/post/di-yi-ge-bo-ke-chuang-jian/">
         </link>
         <updated>2020-07-02T07:27:47.000Z</updated>
         <content type="html"><![CDATA[<p>自从上小学以来，双休日便显得格外重要。我总是早早的醒来，可最终却“百无聊奈”的过着双休日。</p>
