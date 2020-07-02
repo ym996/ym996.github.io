@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com</id>
     <title>油麦</title>
-    <updated>2020-07-02T07:25:10.062Z</updated>
+    <updated>2020-07-02T07:29:40.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com"/>
     <link rel="self" href="https://github.com/atom.xml"/>
@@ -11,12 +11,19 @@
     <icon>https://github.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
     <entry>
-        <title type="html"><![CDATA[恶趣味]]></title>
-        <id>https://github.com/post/e-qu-wei/</id>
-        <link href="https://github.com/post/e-qu-wei/">
+        <title type="html"><![CDATA[第一个博客创建]]></title>
+        <id>https://github.com/post/di-yi-ge-bo-ke-chuang-jian/</id>
+        <link href="https://github.com/post/di-yi-ge-bo-ke-chuang-jian/">
         </link>
-        <updated>2020-07-02T07:24:06.000Z</updated>
-        <content type="html"><![CDATA[<p>恶趣味恶趣味群无 切勿</p>
+        <updated>2020-07-02T07:27:47.000Z</updated>
+        <content type="html"><![CDATA[<p>自从上小学以来，双休日便显得格外重要。我总是早早的醒来，可最终却“百无聊奈”的过着双休日。</p>
+<p>在双休日的时候，我便大声嚷道：“妈，该起床了！”而母亲一定会说：“宝贝，妈妈工作这么辛苦，周末我要补瞌睡。”我只默默地穿衣、洗漱。一切搞定，我前往老爸的书房，找爸爸拿钱买早餐。</p>
+<p>我拿了早饭钱，我带着忐忑的心情走进电梯，听着机器运转的声音，心里总是不由自主地想起曾经被困电梯一个多小时才被救的事情，生怕再发生一点儿意外。出了电梯，我心里才踏实了许多，哼着小曲儿，蹦蹦跳跳地走出了小区。</p>
+<p>随后，我经过了五条小巷子，来到了我最喜欢吃的卷卷早餐铺。做卷卷的阿姨见了我说：“小陈子，来吃卷卷了！”“嗯！”我回答道。阿姨好像知道我的小心思，用那温和的眼神望了我一眼。只见她用那灵活的双手，把鸡蛋摊了一张鸡蛋皮，很快便包好了我的卷卷。一路上，清香四溢，口袋里的卷卷好像在跟我说：“小‘盆’友，我真的好香啊，你想不想吃？”我十分气愤，但我不可以边走路边吃东西，我默念道：“等我到家后我就立刻把你消灭掉。”</p>
+<p>吃完它，我心旷神怡，精神饱满的来到房间写作业。“滴……”一阵电话声震耳欲聋，老爸接了电话便匆匆出门谈业务去了。我愉悦的心情渐渐退散，想着今天是没希望外出游玩了。</p>
+<p>吃完中饭，我的朋友又来叫我打篮球。我说：“你们自由组队我单挑你们！”“咚……咚！”不出我的意料，他们输了。虽然我赢了，但是单干还是挺累的。</p>
+<p>打完篮球，已是黄昏时分。路边的景色格外美，我和朋友们坐在石头上，静静的看着那落叶随风舞蹈。我们终于坐不住了，赞叹道：“纷纷飘落的黄叶，迎着秋姑娘那柔和的风是多么美的一幅画。”时间过得飞快，我们都该回家了。</p>
+<p>远处已是一片黑暗，我在床上静静地想着，想着想着就进入了梦乡……</p>
 ]]></content>
     </entry>
 </feed>
