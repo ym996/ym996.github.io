@@ -5,12 +5,12 @@
   <meta charset="UTF-8" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="keywords" content="油麦的藏宝阁">
+<meta name="keywords" content="Gridea静态个人博客">
 <meta name="description" content="一个间接性踌躇满志，持续性混吃等死，啥也不会的油麦">
 <meta name="theme-color" content="#000">
 <title>油麦</title>
-<link rel="shortcut icon" href="/favicon.ico?v=1593675801059">
-<link rel="stylesheet" href="/media/css/muse.css">
+<link rel="shortcut icon" href="/favicon.ico?v=1593675992121">
+<link rel="stylesheet" href="/media/css/gemini.css">
 <link rel="stylesheet" href="/media/fonts/font-awesome.css">
 <link
   href="//fonts.googleapis.com/css?family=Monda:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Rosario:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext"
@@ -44,9 +44,9 @@
   <div class="head-top-line"></div>
   <div class="header-box">
     
-<div class="muse">
-  <header class="header bg-color ">
-    <div class="blog-header box-shadow-wrapper  " id="header">
+<div class="gemini">
+  <header class="header  ">
+    <div class="blog-header box-shadow-wrapper bg-color " id="header">
       <div class="nav-toggle" id="nav_toggle">
         <div class="toggle-box">
           <div class="line line-top"></div>
@@ -170,11 +170,11 @@
   <div class="main-continer">
     
     <div
-      class="section-layout muse bg-color">
+      class="section-layout gemini ">
       <div class="section-layout-wrapper">
         <div id="sidebarMeta" class="sidebar">
     
-<div class="sidebar-wrapper box-shadow-wrapper ">
+<div class="sidebar-wrapper box-shadow-wrapper bg-color">
   <div class="sidebar-item">
     <img class="site-author-image right-motion" src="/images/avatar.png"/>
     <p class="site-author-name">适用 Gemini,Pisces 布局,版权说明需配置</p>
@@ -202,6 +202,8 @@
     </div>
   </div>
   
+    
+  
   
 
 
@@ -210,7 +212,7 @@
 </div>
 <script>
   let sidebarMeta = document.querySelector('#sidebarMeta');
-  let scheme = 'muse';
+  let scheme = 'gemini';
   let sidebarWrapper = document.querySelector('.sidebar-wrapper');
   if (sidebarMeta && (scheme === 'pisces' || scheme === 'gemini')) {
     document.addEventListener('scroll', function(e) {
@@ -222,7 +224,7 @@
     });
   }
   </script>
-        <div class="section-box muse box-shadow-wrapper">
+        <div class="section-box gemini box-shadow-wrapper">
           <section class="friends-section bg-color slide-down-in">
             <div class="firends-box">
               <h1 class="firends-title" itemprop="name headline">友情链接</h1>
@@ -271,14 +273,12 @@
   </footer>
   
   
-  <div class="drawer-box left" id="drawer_box">
-    <span class="muse-line muse-line-first"></span>
-    <span class="muse-line muse-line-middle"></span>
-    <span class="muse-line muse-line-last"></span>
-  </div>
-  
-  <div class="muse back-to-top" id="back_to_top">
+  <div class="gemini back-to-top" id="back_to_top">
     <i class="fa fa-arrow-up"></i>
+    
+    <span class="scrollpercent">
+      <span id="back_to_top_text">0</span>%
+    </span>
     
   </div>
   
@@ -412,7 +412,7 @@
   }
 
   // 链接跳转
-  let newWindow = 'true'
+  let newWindow = 'false'
   if (newWindow === 'true') {
     let links = document.querySelectorAll('.post-body a')
     links.forEach(item => {
@@ -472,7 +472,7 @@
 &lt;p&gt;吃完中饭，我的朋友又来叫我打篮球。我说：“你们自由组队我单挑你们！”“咚……咚！”不出我的意料，他们输了。虽然我赢了，但是单干还是挺累的。&lt;/p&gt;
 &lt;p&gt;打完篮球，已是黄昏时分。路边的景色格外美，我和朋友们坐在石头上，静静的看着那落叶随风舞蹈。我们终于坐不住了，赞叹道：“纷纷飘落的黄叶，迎着秋姑娘那柔和的风是多么美的一幅画。”时间过得飞快，我们都该回家了。&lt;/p&gt;
 &lt;p&gt;远处已是一片黑暗，我在床上静静地想着，想着想着就进入了梦乡……&lt;/p&gt;
-">第一个博客创建</a>
+">小朋友</a>
       </div>
       
     </div>
@@ -765,8 +765,6 @@
   });
 </script>
 
-
-<script src="/media/js/mouse/love.js"></script>
 
 
 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com</id>
     <title>油麦</title>
-    <updated>2020-07-02T07:43:48.691Z</updated>
+    <updated>2020-07-02T07:46:33.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com"/>
     <link rel="self" href="https://github.com/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://github.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
     <entry>
-        <title type="html"><![CDATA[第一个博客创建]]></title>
+        <title type="html"><![CDATA[小朋友]]></title>
         <id>https://github.com/post/di-yi-ge-bo-ke-chuang-jian/</id>
         <link href="https://github.com/post/di-yi-ge-bo-ke-chuang-jian/">
         </link>
