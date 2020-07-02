@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ym996.github.io/</id>
     <title>油麦</title>
-    <updated>2020-07-02T10:00:35.133Z</updated>
+    <updated>2020-07-02T12:04:35.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ym996.github.io/"/>
     <link rel="self" href="https://ym996.github.io/atom.xml"/>
-    <subtitle>一个间接性踌躇满志，持续性混吃等死，啥也不会的油麦</subtitle>
+    <subtitle>一个间接性踌躇满志，持续性混吃等死，啥也不会的菜鸡</subtitle>
     <logo>https://ym996.github.io/images/avatar.png</logo>
     <icon>https://ym996.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
