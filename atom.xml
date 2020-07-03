@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ym777.github.io/</id>
     <title>油麦</title>
-    <updated>2020-07-02T15:20:31.850Z</updated>
+    <updated>2020-07-03T01:48:12.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ym777.github.io/"/>
     <link rel="self" href="https://ym777.github.io/atom.xml"/>
@@ -28,7 +28,7 @@
 <p>不过gridea v0.9.2版本以上集成了git，可以只安装gridea软件。</p>
 <h2 id="gridea安装">Gridea安装</h2>
 <p><a href="https://gridea.dev/">Gridea官网</a>下载对应平台的安装程序进行安装。</p>
-<p>网速较慢，推荐去各大资源站下载。找不到附我的资源库：<a href="https://cangbaoge.ys168.com/">油麦同学的藏宝阁</a></p>
+<p>网速较慢，推荐去各大资源站下载。找不到附我的资源库：<a href="http://www.cangbaoge.ys168.com/">油麦同学的藏宝阁</a></p>
 <h1 id="2github仓库创建">2.github仓库创建</h1>
 <h2 id="1账户注册">1.账户注册</h2>
 <p><a href="https://github.com/">github官网</a> 注册个账户，记好账户与密码。</p>
