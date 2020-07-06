@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ym777.github.io/</id>
+    <id>https://ym996.github.io/</id>
     <title>油麦</title>
-    <updated>2020-07-06T05:15:36.033Z</updated>
+    <updated>2020-07-06T05:18:16.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ym777.github.io/"/>
-    <link rel="self" href="https://ym777.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ym996.github.io/"/>
+    <link rel="self" href="https://ym996.github.io/atom.xml"/>
     <subtitle>分享生活，分享快乐</subtitle>
-    <logo>https://ym777.github.io/images/avatar.png</logo>
-    <icon>https://ym777.github.io/favicon.ico</icon>
+    <logo>https://ym996.github.io/images/avatar.png</logo>
+    <icon>https://ym996.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 油麦</rights>
     <entry>
         <title type="html"><![CDATA[油麦低价书籍]]></title>
-        <id>https://ym777.github.io/post/you-mai-di-jie-shu-ji/</id>
-        <link href="https://ym777.github.io/post/you-mai-di-jie-shu-ji/">
+        <id>https://ym996.github.io/post/you-mai-di-jie-shu-ji/</id>
+        <link href="https://ym996.github.io/post/you-mai-di-jie-shu-ji/">
         </link>
         <updated>2020-07-05T12:20:57.000Z</updated>
         <summary type="html"><![CDATA[<p>太难了，为了让你们放心购买。还给商铺交了不菲的保证金，让本就没指望这赚钱的油麦更加雪上加霜。<br>
@@ -773,8 +773,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Gridea和github搭建博客记录]]></title>
-        <id>https://ym777.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/</id>
-        <link href="https://ym777.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/">
+        <id>https://ym996.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/</id>
+        <link href="https://ym996.github.io/post/gridea-he-github-da-jian-bo-ke-ji-lu/">
         </link>
         <updated>2020-07-02T13:52:45.000Z</updated>
         <summary type="html"><![CDATA[<p>来来回回，换了很多网站与工具。最终选择了Gridea和github来搭建自己的博客，一来只是把它作为一个工具，记录下自己的算是确定下来了吧。</p>
